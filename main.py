@@ -10,5 +10,10 @@ print(dog.speak())
 print(cat.speak())
 print(bird.speak())
 
+print(dog.intro())
+print(cat.intro())
+print(bird.intro())
+
 
 # print(Animal.__dict__)
+

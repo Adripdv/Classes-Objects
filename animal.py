@@ -8,3 +8,6 @@ class Animal:
   # instance method
   def speak(self):
     return f'My name is {self.name} and I am {self.age} years old'
+
+  def intro(self):
+    return f"I am {self.name}"
